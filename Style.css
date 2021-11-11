@@ -1,0 +1,42 @@
+div {
+    background:darkgreen;
+}
+p {
+    color:rgb(0, 140, 255);
+    align-content: space-between;
+}
+li {
+    flex-direction: column-reverse;
+    justify-content: center;
+    size:16pt;
+}
+ol {
+    font:Courier;
+    color:blue;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+ul {
+    font:Arial;
+    color:blue;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+div.column {
+    width:25%;
+    float: left;
+    margin-top: 2.2em;
+}
+
+aside {
+    margin-top: 1em;
+}
+class {
+    float: left;
+}
